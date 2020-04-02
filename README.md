@@ -1,7 +1,3 @@
-## 博客地址：
-+ [PHP爬虫最全总结1](http://blog.csdn.net/future_todo/article/details/52781218)
-+ [PHP爬虫最全总结2-phpQuery，PHPcrawer，snoopy框架中文介绍](http://blog.csdn.net/future_todo/article/details/52804440)
-
 ## 文件说明
 + demo1 不使用其他库实现的爬虫原型，主要使用的是`stream_get_contents`函数
 + demo2 使用`curl`函数实现
